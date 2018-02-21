@@ -1,39 +1,15 @@
-## Welcome to GitHub Pages
+## Bem-vindo à página dos formatos
 
-[jorge](jorge.md)
+Este "sítio Web", ou melhor, conjunto de páginas foram criadas para organizar a informação compilada pelo grupo dos formatos. Este grupo  resultou do Encontro sobre a <abbr title="Biblioteca Aberta do Ensino Superior">BAES</abbr> que decorreu no passado dia 8 de fevereiro no Instituto Politécnico de Leiria.
 
-You can use the [editor on GitHub](https://github.com/jorgeponto/gtaedes_formatos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Índice
+- [notas JF](jorge.md)
+- ...
+- ...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Informação sobre o estilo destas páginas
 
-### Markdown
+Estas páginas foram concebidas usando a linguagem, "extremamente simples de usar" :-), MarkDown. Se não conhece, aqui ficam algumas notas pois pode inclusivamente usá-la para formatar documentos acessíveis. Vale a pena usar e ficar a conhecer esta "linguagem"!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jorgeponto/gtaedes_formatos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Notas breves deste template](little-manual.md)
+- [O saboroso Markdown para Github](https://guides.github.com/features/mastering-markdown/).
