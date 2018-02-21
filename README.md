@@ -3,9 +3,12 @@
 Este "sítio Web", ou melhor, conjunto de páginas foram criadas para organizar a informação compilada pelo grupo dos formatos. Este grupo  resultou do Encontro sobre a <abbr title="Biblioteca Aberta do Ensino Superior">BAES</abbr> que decorreu no passado dia 8 de fevereiro no Instituto Politécnico de Leiria.
 
 ### Índice
+
 - [Regras de produção](regras-docs.md)
-- ...
-- ...
+- [Especificações e normas](especificacoes.md)
+- [Ferramentas de conversão](conversao.md)
+- [Ferramentas de edição](edicao.md)
+- [Ferramentas de leitura](leitura.md)
 
 ### Informação sobre o estilo destas páginas
 
