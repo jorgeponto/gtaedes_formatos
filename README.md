@@ -4,7 +4,7 @@ Este "sítio Web", ou melhor, conjunto de páginas foram criadas para organizar 
 
 ### Índice
 - [notas JF](jorge.md)
-- [Regras de produção](regras-doc.md)
+- [Regras de produção](regras-docs.md)
 - ...
 
 ### Informação sobre o estilo destas páginas
