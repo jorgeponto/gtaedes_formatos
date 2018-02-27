@@ -4,4 +4,4 @@ Apresentam-se a seguir ferramentas de conversão de formatos que podem ajudar os
 
 - [Pandoc - the swiss army knife](http://pandoc.org)
 - [Converter formatos markdown -> ...](https://pandoc.org/demos.html)
-- [Grackle Docs](https://chrome.google.com/webstore/detail/grackle-docs/ojlgifagodaoojkjjmmhmhklgkcmbgbk)
+- [Grackle Docs](https://chrome.google.com/webstore/detail/grackle-docs/ojlgifagodaoojkjjmmhmhklgkcmbgbk) - converte ficheiros do Google Docs para PDF/UA corretamente marcado (i.e. preserva todos os elementos estruturais e toda a informação disponível nos diversos elementos do documento.
