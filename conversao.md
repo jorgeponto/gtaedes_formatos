@@ -9,4 +9,4 @@ Apresentam-se a seguir ferramentas de conversão de formatos que podem ajudar os
   - [pt-pt-g1.utb](https://github.com/liblouis/liblouis/blob/master/tables/pt-pt-g1.utb);
   - [pt-pt-g2.ctb; suportamente será grau 2, ou seja abreviado](https://github.com/liblouis/liblouis/blob/master/tables/pt-pt-g2.ctb); 
   - [pt-pt-comp8.ctb](https://github.com/liblouis/liblouis/blob/master/tables/pt-pt-comp8.ctb).
-- [BrailleBlaster](http://brailleblaster.org/download.php) - <em lang="en" xml:lang="en">is a braille transcription program developed by the American Printing House for the Blind to help transcribers provide blind students with braille textbooks on the first day of class.</em> Isto <em lang="en" xml:lang="en">sounds nice!</em> Vamos ver como realmente funciona.
+- [BrailleBlaster](http://brailleblaster.org/download.php) - <em lang="en" xml:lang="en">is a braille transcription program developed by the American Printing House for the Blind to help transcribers provide blind students with braille textbooks on the first day of class.</em> Isto <em lang="en" xml:lang="en">sounds nice!</em> Vamos ver como realmente funciona. Tem versão para Windows e para macOS.
