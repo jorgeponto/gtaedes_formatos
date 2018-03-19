@@ -4,3 +4,4 @@ A produção de materiais educativos acessíveis dependem muito da qualidade das
 
 - [WIRIS – um editor de fórmulas matemáticas em MathML e Latex](http://www.wiris.com/editor/demo/pt/mathml-latex)
 - [Editor Texts](http://www.texts.io/samples/) - escreve-se em MarkDown e pode-se exportar para HTML5, PDF, ePub2, ePub3, DOCX.
+- [Manual rápido de edição em Markdown no WordPress](https://en.support.wordpress.com/markdown-quick-reference/).
